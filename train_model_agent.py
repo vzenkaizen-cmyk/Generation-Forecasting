@@ -283,9 +283,9 @@ MODEL_PARAMETERS = {
 
     "n_estimators": 1000,
 
-    "learning_rate": 0.03,
+    "learning_rate": 0.01,
 
-    "max_depth": 5,
+    "max_depth": 7,
 
     "min_child_weight": 5,
 
