@@ -283,11 +283,11 @@ MODEL_PARAMETERS = {
 
     "n_estimators": 1000,
 
-    "learning_rate": 0.01,
+    "learning_rate": 0.01, 
 
     "max_depth": 7,
 
-    "min_child_weight": 5,
+    "min_child_weight": 6,
 
     "subsample": 0.8,
 
